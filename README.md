@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yusuf-%C3%B6zbay-7b8608251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hüsnü selman gümüşsoy" height="30" width="40" /></a>
-<a href="https://github.com/yusuf-ozbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gumussoyhs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yusuf-%C3%B6zbay-7b8608251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yusuf Özbay" height="30" width="40" /></a>
+<a href="https://medium.com/@ozbay9985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Yusuf Özbay Medium" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
